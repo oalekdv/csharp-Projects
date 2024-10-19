@@ -1,0 +1,8 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ButtonTestes\ButtonTestes\obj\Debug\ButtonTestes.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ButtonTestes\ButtonTestes\obj\Debug\ButtonTestes.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ButtonTestes\ButtonTestes\obj\Debug\ButtonTestes.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ButtonTestes\ButtonTestes\bin\Debug\ButtonTestes.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ButtonTestes\ButtonTestes\bin\Debug\ButtonTestes.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ButtonTestes\ButtonTestes\bin\Debug\ButtonTestes.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ButtonTestes\ButtonTestes\obj\Debug\ButtonTestes.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\ButtonTestes\ButtonTestes\obj\Debug\ButtonTestes.pdb

@@ -1,0 +1,8 @@
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\CacadorDeChar\CacadorDeChar\bin\Debug\CacadorDeChar.exe.config
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\CacadorDeChar\CacadorDeChar\bin\Debug\CacadorDeChar.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\CacadorDeChar\CacadorDeChar\bin\Debug\CacadorDeChar.pdb
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\CacadorDeChar\CacadorDeChar\obj\Debug\CacadorDeChar.csprojResolveAssemblyReference.cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\CacadorDeChar\CacadorDeChar\obj\Debug\CacadorDeChar.MainForm.resources
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\CacadorDeChar\CacadorDeChar\obj\Debug\CacadorDeChar.csproj.GenerateResource.Cache
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\CacadorDeChar\CacadorDeChar\obj\Debug\CacadorDeChar.exe
+C:\Users\alekb\OneDrive\Documentos\SharpDevelop Projects\CacadorDeChar\CacadorDeChar\obj\Debug\CacadorDeChar.pdb
